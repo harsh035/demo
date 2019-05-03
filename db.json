@@ -1,49 +1,14 @@
 {
-  "audioResponse": [
-    {
-      "endTime": 1.83,
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 0
-    },
-    {
-      "endTime": 4.52,
-      "speaker": "spk1",
-      "emotion": "fearful",
-      "startTime": 1.83
-    },
-    {
-      "endTime": 5.83,
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 4.52
-    },
-    {
-      "endTime": 9.67,
-      "speaker": "spk2",
-      "emotion": "angry",
-      "startTime": 5.83
-    },
-    {
-      "endTime": 9.83,
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 9.67
-    },
-    {
-      "endTime": 13.71,
-      "speaker": "spk1",
-      "emotion": "fearful",
-      "startTime": 9.83
-    },
-    {
-      "endTime": 14.2,
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 13.71
-    }
+  "posts": [
+    { "id": 1, "title": "Machine Learning" },
+    { "id": 2, "title": "Artificial Intelligence" },
+    { "id": 3, "title": "Data Science" }
   ],
-   "profile": {
-    "name": "harsh"
-}
+  "comments": [
+    { "id": 1, "body": "India's largest FMCG firm, Hindustan Unilever Ltd, is set to announce its March quarter (Q4) results today.", "postId": 1 },
+    { "id": 2, "body": "With less than two weeks to go, OnePlus India has announced that it will commence the pre-bookings for the OnePlus 7 Pro from today.", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
