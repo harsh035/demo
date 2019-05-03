@@ -2,206 +2,45 @@
   "audioResponse": [
     {
       "endTime": 1.83,
-      "emotionScore": "NA",
       "speaker": "silence",
       "emotion": "NA",
       "startTime": 0
     },
     {
       "endTime": 4.52,
-      "emotionScore": -1,
       "speaker": "spk1",
       "emotion": "fearful",
       "startTime": 1.83
     },
     {
       "endTime": 5.83,
-      "emotionScore": "NA",
       "speaker": "silence",
       "emotion": "NA",
       "startTime": 4.52
     },
     {
       "endTime": 9.67,
-      "emotionScore": -3,
       "speaker": "spk2",
       "emotion": "angry",
       "startTime": 5.83
     },
     {
       "endTime": 9.83,
-      "emotionScore": "NA",
       "speaker": "silence",
       "emotion": "NA",
       "startTime": 9.67
     },
     {
       "endTime": 13.71,
-      "emotionScore": -1,
       "speaker": "spk1",
       "emotion": "fearful",
       "startTime": 9.83
     },
     {
       "endTime": 14.2,
-      "emotionScore": "NA",
       "speaker": "silence",
       "emotion": "NA",
       "startTime": 13.71
-    },
-    {
-      "endTime": 15.17,
-      "emotionScore": 2,
-      "speaker": "spk2",
-      "emotion": "happy",
-      "startTime": 14.2
-    },
-    {
-      "endTime": 15.63,
-      "emotionScore": "NA",
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 15.17
-    },
-    {
-      "endTime": 19.7,
-      "emotionScore": -1,
-      "speaker": "spk1",
-      "emotion": "fearful",
-      "startTime": 15.63
-    },
-    {
-      "endTime": 20.12,
-      "emotionScore": "NA",
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 19.7
-    },
-    {
-      "endTime": 21.45,
-      "emotionScore": -3,
-      "speaker": "spk2",
-      "emotion": "angry",
-      "startTime": 20.12
-    },
-    {
-      "endTime": 21.55,
-      "emotionScore": "NA",
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 21.45
-    },
-    {
-      "endTime": 27.86,
-      "emotionScore": -3,
-      "speaker": "spk1",
-      "emotion": "angry",
-      "startTime": 21.55
-    },
-    {
-      "endTime": 28.4,
-      "emotionScore": "NA",
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 27.86
-    },
-    {
-      "endTime": 32.54,
-      "emotionScore": -1,
-      "speaker": "spk2",
-      "emotion": "fearful",
-      "startTime": 28.4
-    },
-    {
-      "endTime": 33.64,
-      "emotionScore": "NA",
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 32.54
-    },
-    {
-      "endTime": 39.34,
-      "emotionScore": -1,
-      "speaker": "spk1",
-      "emotion": "fearful",
-      "startTime": 33.64
-    },
-    {
-      "endTime": 39.83,
-      "emotionScore": "NA",
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 39.34
-    },
-    {
-      "endTime": 40.35,
-      "emotionScore": 1,
-      "speaker": "spk2",
-      "emotion": "calm",
-      "startTime": 39.83
-    },
-    {
-      "endTime": 40.65,
-      "emotionScore": "NA",
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 40.35
-    },
-    {
-      "endTime": 42.93,
-      "emotionScore": -3,
-      "speaker": "spk1",
-      "emotion": "angry",
-      "startTime": 40.65
-    },
-    {
-      "endTime": 43.78,
-      "emotionScore": "NA",
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 42.93
-    },
-    {
-      "endTime": 57.5,
-      "emotionScore": -2,
-      "speaker": "spk2",
-      "emotion": "sad",
-      "startTime": 43.78
-    },
-    {
-      "endTime": 57.58,
-      "emotionScore": "NA",
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 57.5
-    },
-    {
-      "endTime": 63.3,
-      "emotionScore": -1,
-      "speaker": "spk1",
-      "emotion": "fearful",
-      "startTime": 57.58
-    },
-    {
-      "endTime": 63.72,
-      "emotionScore": "NA",
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 63.3
-    },
-    {
-      "endTime": 67.37,
-      "emotionScore": -1,
-      "speaker": "spk2",
-      "emotion": "fearful",
-      "startTime": 63.72
-    },
-    {
-      "endTime": 68.1,
-      "emotionScore": "NA",
-      "speaker": "silence",
-      "emotion": "NA",
-      "startTime": 67.37
     }
   ],
    "profile": {
