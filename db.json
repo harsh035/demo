@@ -385,12 +385,5 @@
       "emotion": "NA",
       "startTime": 118.34
     }
-  ],
-  "resourceUrl": [
-    {
-      "label": "testing",
-      "url": "filename.wav",
-      "duration": 128.52351473922903,
-    }
   ]
 }
